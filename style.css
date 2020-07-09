@@ -1,0 +1,33 @@
+
+div {padding: 25px}
+
+
+div#wrapper { background-color: darkblue; 
+
+width: 1500px;
+
+margin: 0px auto}
+
+div#header {background-color: white}
+
+div#content {background-color: darkred;
+    
+    width: 1000px;
+
+float: left
+}
+
+div#menu {background-color: white;
+    
+    width: 350px;
+
+float: left}
+
+div#footer {background-color: white;
+
+clear: left;}
+    
+p, a {
+ font-family:Montserrat Subrayada;
+ font-size:15px
+} 
